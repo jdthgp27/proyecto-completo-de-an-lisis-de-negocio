@@ -1,0 +1,7 @@
+Segmento,N_Clientes,Ingresos_Totales,Ingreso_Medio,accion,objetivo,prioridad,potencial
+Campeones,1295,11432476.62,8828.17,"Programa VIP: acceso anticipado, regalos exclusivos, atención personalizada",Mantener tasa de retención >90%,ALTA,"Retener £11,4M anuales"
+Leales,689,1780888.84,2584.74,"Campaña de upselling: packs, suscripciones, cross-selling",Subir ticket medio un 20%,MEDIA-ALTA,"Aumentar £1,78M a ~£2,14M"
+En riesgo,614,1339641.67,2181.83,Reactivación urgente: email personalizado + descuento 15% + envío gratis,Recuperar el 30% del segmento,ALTA,Recuperar ~£400K
+Otros,635,821530.97,1293.75,Análisis manual y reclasificación (segmento mixto),Clasificar en segmentos estándar,BAJA,Optimizar targeting
+Necesitan atención,2174,818837.41,376.65,Campaña de segunda compra: incentivo por primera repetición,Convertir 20% en Potenciales leales,MEDIA,Añadir ~£160K
+Potenciales leales,445,244636.22,549.74,Email nurturing: contenido de valor + incentivo de recurrencia,Aumentar frecuencia a 3+ pedidos,MEDIA,Subir ingreso medio de £550 a £750

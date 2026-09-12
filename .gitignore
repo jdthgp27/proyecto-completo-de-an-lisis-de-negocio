@@ -1,0 +1,32 @@
+# === Datos pesados (no subir) ===
+datos/*.xlsx
+datos_limpios/*.parquet
+
+# === Entornos virtuales ===
+venv/
+.venv/
+env/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+
+# === Archivos grandes (regenerables con los scripts) ===
+datos_limpios/*.csv
+datos_limpios/*.parquet
+
+# === Archivos grandes (regenerables con los scripts) ===
+datos_limpios/*.csv
+datos_limpios/*.parquet

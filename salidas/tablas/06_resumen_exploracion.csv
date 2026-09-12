@@ -1,0 +1,13 @@
+Métrica,Valor
+Filas totales,1067371
+Duplicados exactos,34335
+Duplicados sin Customer ID,34335
+Nulos en Customer ID,243007
+Nulos en Description,4382
+Quantity < 0,22950
+Invoice empieza por C,19494
+Outliers Quantity (IQR),116489
+Outliers Price (IQR),68105
+Clientes únicos,5942
+Productos únicos,5305
+Países únicos,43

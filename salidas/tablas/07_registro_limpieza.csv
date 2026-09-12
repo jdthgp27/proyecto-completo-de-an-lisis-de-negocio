@@ -1,0 +1,6 @@
+Paso,Filas antes,Filas después,Filas eliminadas,% eliminado,Motivo
+Agregación de duplicados (suma de Quantity),1067371,1022443,44928,4.21,Compras repetidas del mismo producto en la misma factura
+Eliminación de cancelaciones,1022443,1000009,22434,2.19,"InvoiceNo empieza por ""C"" o Quantity negativa"
+Eliminación de precios <= 0,1000009,997393,2616,0.26,Precio negativo o cero
+Eliminación de filas con Description nula,997393,997393,0,0.0,Bajo porcentaje (0.41%) y sin valor para el análisis
+Eliminación de outliers extremos (percentil 99.9),997393,995416,1977,0.2,Valores extremos que distorsionan el análisis

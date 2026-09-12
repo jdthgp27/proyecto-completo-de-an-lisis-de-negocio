@@ -1,0 +1,6 @@
+pandas==3.0.5
+numpy
+matplotlib==3.11.2
+seaborn==0.13.2
+openpyxl==3.1.5
+pyarrow==25.0.1
